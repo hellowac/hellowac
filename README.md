@@ -11,8 +11,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellowac&show_icons=true&title_color=9925be&text_color=2596be&bg_color=ffffff)
-
+| <a href="https://github.com/hellowac/ecma-376-zh-cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hellowac&show_icons=true&title_color=9925be&text_color=2596be&bg_color=ffffff&hide_border=true" alt="Hellowac's github stats" /></a> | <a href="https://github.com/hellowac/ecma-376-zh-cn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellowac&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ```python
 def welcome_to(where: str):
@@ -24,7 +24,6 @@ if __name__ == "__main__":
     welcome_to("hellowac page")
 ```
 
-![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=hellowac&hide=Handlebars) 
 
 # 🐔 About Me:
 
