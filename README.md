@@ -13,7 +13,7 @@
 ```python
 def welcome_to(where: str):
 
-    print('Welcome to {where}! 🎉')
+    print(f'Welcome to {where}! 🎉')
 
 
 if __name__ == "__main__":
