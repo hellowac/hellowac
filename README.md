@@ -24,6 +24,8 @@ Below is a list of completed translations, though they may not be updated in rea
 - [mypy-zh-cn](https://hellowac.github.io/mypy-zh-cn)
 - [attrs-zh-cn](https://hellowac.github.io/attrs-zh-cn)
 - [aio-pika-zh-cn](https://hellowac.github.io/aio-pika-zh-cn)
+- [redis-py-zh-cn](https://hellowac.github.io/redis-py-zh-cn)
+- [redis-om-python-zh-cn](https://hellowac.github.io/redis-om-python-zh-cn)
 - [nameko-zh-cn](https://hellowac.github.io/nameko-zh-cn/)
 - [yjs-zh-cn](https://hellowac.github.io/yjs-zh-cn/)
 - [ypy-zh-cn](https://hellowac.github.io/ypy-zh-cn/)
