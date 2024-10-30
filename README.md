@@ -25,6 +25,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [tortoise-orm-zh-cn](https://hellowac.github.io/tortoise-orm-zh-cn) - 一个基于Python的，易于使用的 asyncio ORM 包。
 - [mypy-zh-cn](https://hellowac.github.io/mypy-zh-cn) - 用于 Python 的静态类型检查器
+- [pytest-zh-cn](https://hellowac.github.io/pytest-zh-cn/) - 轻松编写小型、可读的测试
 - [attrs-zh-cn](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
 - [aio-pika-zh-cn](https://hellowac.github.io/aio-pika-zh-cn) - 一个基于 aiormq 和 asyncio 的更人性化的包.
 - [redis-py-zh-cn](https://hellowac.github.io/redis-py-zh-cn) - 连接redis并执行命令的包，支持集群和异步。
