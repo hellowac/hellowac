@@ -34,6 +34,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [ypy-zh-cn](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
 - [ypy-websocket-zh-cn](https://hellowac.github.io/ypy-websocket-zh-cn/) - 一个用于 Ypy 的异步 WebSocket 连接器。
 - [net-intro-zh-cn](https://hellowac.github.io/net-intro-zh-cn/) - 网络简介
+- [python3-cook-book](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
 - [pythonds-zh-cn](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
 - [python-program-style-zh-cn](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
 - [async-zh-cn](https://hellowac.github.io/async-zh-cn/)  - python异步编程资料
