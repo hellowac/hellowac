@@ -45,7 +45,11 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ## Js
 
-- [yjs-zh-cn](https://hellowac.github.io/yjs-zh-cn/) - 一个基于 JS 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。（协作编辑）
+- [yjs-zh-cn](https://hellowac.github.io/yjs-zh-cn/) - 一个基于 JS 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。（协作编辑）''
+
+## Database
+
+- [practical-db-zh-cn](https://hellowac.github.io/practical_db_textbook-zh-cn/index.html) - 涵盖了三个核心主题：SQL、数据建模和关系数据库理论
 
 ## Other
 
