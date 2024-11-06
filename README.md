@@ -32,6 +32,7 @@ Below is a list of completed translations, though they may not be updated in rea
 ## async
 
 - [async-zh-cn](https://hellowac.github.io/async-zh-cn/)  - python异步编程资料
+- [anyio-zh-cn](https://hellowac.github.io/anyio-zh-cn/)  - AnyIO 是一个异步网络和并发库，基于 asyncio 或 trio 之上构建。它在 asyncio 上实现了类似 trio 的 结构化并发 (SC)，并与 trio 本身的原生 SC 和谐工作。
 
 ## type hints
 
