@@ -58,6 +58,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [redis-om-python-zh-cn](https://hellowac.github.io/redis-om-python-zh-cn) - 一个用于redis的对象映射的包。
 - [nameko-zh-cn](https://hellowac.github.io/nameko-zh-cn/) - 一个用于 Python 的微服务框架，帮助服务开发者专注于应用逻辑并促进可测试性。
 - [ypy-websocket-zh-cn](https://hellowac.github.io/ypy-websocket-zh-cn/) - 一个用于 Ypy 的异步 WebSocket 连接器。原作者已更最新为 [pycrdt-websocket](https://github.com/jupyter-server/pycrdt-websocket) 。
+- [pycrdt-websocket-zh-cn](https://hellowac.github.io/pycrdt-websocket-zh-cn) - 一个用于 pycrdt 的异步 WebSocket 连接器
 
 ## Database
 
