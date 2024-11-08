@@ -79,6 +79,10 @@ Below is a list of completed translations, though they may not be updated in rea
 - [net-intro-zh-cn](https://hellowac.github.io/net-intro-zh-cn/) - 网络简介
 - [developer-roadmap](https://roadmap.sh/) - 开发者路线图
 
+## package manage
+
+- [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - 一款面向开发人员的包管理工具。
+
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
