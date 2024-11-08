@@ -31,8 +31,10 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ## async
 
+- [asyncio-zh-cn](https://docs.python.org/zh-cn/3/library/asyncio.html) - asyncio 是用来编写 并发 代码的库，使用 async/await 语法。【标准库】🌠
 - [async-zh-cn](https://hellowac.github.io/async-zh-cn/)  - python异步编程资料
 - [anyio-zh-cn](https://hellowac.github.io/anyio-zh-cn/)  - AnyIO 是一个异步网络和并发库，基于 asyncio 或 trio 之上构建。它在 asyncio 上实现了类似 trio 的 结构化并发 (SC)，并与 trio 本身的原生 SC 和谐工作。
+- [trio-zh-cn](https://hellowac.github.io/trio-zh-cn/)  - 一个用于异步并发和 I/O 的友好 Python 库🌟
 
 ## type hints
 
