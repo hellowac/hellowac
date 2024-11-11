@@ -28,6 +28,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [python-program-style-zh-cn](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
 - [attrs-zh-cn](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
 - [ypy-zh-cn](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
+- [eventlet-zh-cn](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 
 ## async
 
