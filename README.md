@@ -84,6 +84,14 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - 一款面向开发人员的包管理工具。
 
+## 机器学习
+
+- [ml-tooling](https://github.com/ml-tooling) - 机器学习工具合集 【组织】
+  - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 出色的机器学习 Python 库排名列表。每周更新。【项目】
+  - [best-of-python](https://github.com/ml-tooling/best-of-python) - 出色的 Python 开源库和工具的排名列表。每周更新。【项目】
+  - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 用于 Web 开发的优秀 Python 库的排名列表。每周更新。【项目】
+  - [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 出色的 Python 开发人员工具和库的排名列表。每周更新。【项目】
+
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
