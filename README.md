@@ -83,7 +83,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ## package manage
 
-- [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - 一款面向开发人员的包管理工具。
+- [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - [中文文档](https://hellowac.github.io/pixi-zh-cn/) - 一款面向开发人员的包管理工具。
 
 ## 机器学习
 
