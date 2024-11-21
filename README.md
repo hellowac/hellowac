@@ -23,6 +23,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ## Python
 
+- [python](https://github.com/python/) - python 官方组织 【组织】 🥇
 - [python3-cook-book](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
 - [pythonds-zh-cn](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
 - [python-program-style-zh-cn](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
