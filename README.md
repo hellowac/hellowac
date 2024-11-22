@@ -21,6 +21,10 @@ I have a strong interest in cutting-edge technologies, such as `asyncio` and typ
 
 Below is a list of completed translations, though they may not be updated in real-time:
 
+## TYSF
+
+[Teach Your self](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md) - 自学计算机专业指南-中文版 - [英文版](https://teachyourselfcs.com/)
+
 ## Python
 
 - [python](https://github.com/python/) - python 官方组织 【组织】 🥇
@@ -31,6 +35,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [ypy-zh-cn](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
 - [eventlet-zh-cn](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 - [pypug](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
+- [starlette-zh-cn](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
 
 ## async
 
