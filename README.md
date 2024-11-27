@@ -54,6 +54,7 @@ Below is a list of completed translations, though they may not be updated in rea
 ## ORM
 
 - [tortoise-orm-zh-cn](https://hellowac.github.io/tortoise-orm-zh-cn) - 一个基于Python的，易于使用的 asyncio ORM 包。
+- [sqlmodel-zh-cn](https://hellowac.github.io/sqlmodel-zh-cn/) - 一个基于pydantic和sqlalchemy的轻量封装的适用于fastapi的ORM包。
 
 ## test
 
