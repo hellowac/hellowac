@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5cdc6e3d-f0ec-41e4-ad77-eda3b9fb39f6)### Pythonic developer 👋
+### Pythonic developer 👋
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
