@@ -1,4 +1,4 @@
-### Pythonic developer 👋
+![image](https://github.com/user-attachments/assets/5cdc6e3d-f0ec-41e4-ad77-eda3b9fb39f6)### Pythonic developer 👋
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
@@ -28,65 +28,65 @@ Below is a list of completed translations, though they may not be updated in rea
 ## Python
 
 - [python](https://github.com/python/) - python 官方组织 【组织】 🥇
-- [python3-cook-book](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
-- [pythonds-zh-cn](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
-- [python-program-style-zh-cn](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
-- [attrs-zh-cn](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
-- [ypy-zh-cn](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
-- [eventlet-zh-cn](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
-- [pypug](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
-- [starlette-zh-cn](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
+- [python3-cook-book-zh-cn](https://github.com/hellowac/python3-cookbook-zh-cn) - [文档](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
+- [pythonds-zh-cn](https://github.com/hellowac/pythonds-zh-cn) - [文档](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
+- [python-program-style-zh-cn](https://github.com/hellowac/python-program-style-zh-cn) - [文档](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
+- [attrs-zh-cn](https://github.com/hellowac/attrs-zh-cn) - [文档](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
+- [ypy-zh-cn](https://github.com/hellowac/ypy-zh-cn) - [文档](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
+- [eventlet-zh-cn](https://github.com/hellowac/eventlet-zh-cn) - [文档](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
+- [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
+- [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟 
 
 ## async
 
-- [asyncio-zh-cn](https://docs.python.org/zh-cn/3/library/asyncio.html) - asyncio 是用来编写 并发 代码的库，使用 async/await 语法。【标准库】🌠
+- [asyncio-zh-cn](https://github.com/hellowac/asyncio-zh-cn) - [文档](https://docs.python.org/zh-cn/3/library/asyncio.html) - asyncio 是用来编写 并发 代码的库，使用 async/await 语法。【标准库】🌠
 - [aio-libs](https://github.com/aio-libs) - 高质量构建的一组基于异步(asyncio)的库 【组织】😲
-- [async-zh-cn](https://hellowac.github.io/async-zh-cn/)  - python异步编程资料
-- [anyio-zh-cn](https://hellowac.github.io/anyio-zh-cn/)  - AnyIO 是一个异步网络和并发库，基于 asyncio 或 trio 之上构建。它在 asyncio 上实现了类似 trio 的 结构化并发 (SC)，并与 trio 本身的原生 SC 和谐工作。
-- [trio-zh-cn](https://hellowac.github.io/trio-zh-cn/)  - 一个用于异步并发和 I/O 的友好 Python 库🌟
+- [async-zh-cn](https://github.com/hellowac/async-zh-cn) - [文档](https://hellowac.github.io/async-zh-cn/)  - python异步编程资料
+- [anyio-zh-cn](https://github.com/hellowac/anyio-zh-cn) - [文档](https://hellowac.github.io/anyio-zh-cn/)  - AnyIO 是一个异步网络和并发库，基于 asyncio 或 trio 之上构建。它在 asyncio 上实现了类似 trio 的 结构化并发 (SC)，并与 trio 本身的原生 SC 和谐工作。
+- [trio-zh-cn](https://github.com/hellowac/trio-zh-cn) - [文档](https://hellowac.github.io/trio-zh-cn/)  - 一个用于异步并发和 I/O 的友好 Python 库🌟
 - [trio-libs](https://github.com/python-trio) - 基于 trio 库构建一些并发库 【组织】😲
 
 ## type hints
 
-- [mypy-zh-cn](https://hellowac.github.io/mypy-zh-cn) - 用于 Python 的静态类型检查器
-- [pydantic-zh-cn](https://hellowac.github.io/pydantic-zh-cn/) - 使用 Python 类型提示进行数据验证
+- [mypy-zh-cn](https://github.com/hellowac/mypy-zh-cn) - [文档](https://hellowac.github.io/mypy-zh-cn) - 用于 Python 的静态类型检查器
+- [pydantic-zh-cn](https://github.com/hellowac/pydantic-zh-cn) - [文档](https://hellowac.github.io/pydantic-zh-cn/) - 使用 Python 类型提示进行数据验证
 
 ## ORM
 
-- [tortoise-orm-zh-cn](https://hellowac.github.io/tortoise-orm-zh-cn) - 一个基于Python的，易于使用的 asyncio ORM 包。
-- [sqlmodel-zh-cn](https://hellowac.github.io/sqlmodel-zh-cn/) - 一个基于pydantic和sqlalchemy的轻量封装的适用于fastapi的ORM包。
+- [tortoise-orm-zh-cn](https://github.com/hellowac/tortoise-orm-zh-cn) - [文档](https://hellowac.github.io/tortoise-orm-zh-cn) - 一个基于Python的，易于使用的 asyncio ORM 包。
+- [sqlmodel-zh-cn](https://github.com/hellowac/sqlmodel-zh-cn) - [文档](https://hellowac.github.io/sqlmodel-zh-cn/) - 一个基于pydantic和sqlalchemy的轻量封装的适用于fastapi的ORM包。
 
 ## test
 
-- [pytest-zh-cn](https://hellowac.github.io/pytest-zh-cn/) - 轻松编写小型、可读的测试
+- [pytest-zh-cn](https://github.com/hellowac/pytest-zh-cn) - [文档](https://hellowac.github.io/pytest-zh-cn/) - 轻松编写小型、可读的测试
 
 ## connector
 
-- [aio-pika-zh-cn](https://hellowac.github.io/aio-pika-zh-cn) - 一个基于 aiormq 和 asyncio 的更人性化的包.
-- [redis-py-zh-cn](https://hellowac.github.io/redis-py-zh-cn) - 连接redis并执行命令的包，支持集群和异步。
-- [redis-om-python-zh-cn](https://hellowac.github.io/redis-om-python-zh-cn) - 一个用于redis的对象映射的包。
-- [nameko-zh-cn](https://hellowac.github.io/nameko-zh-cn/) - 一个用于 Python 的微服务框架，帮助服务开发者专注于应用逻辑并促进可测试性。
-- [ypy-websocket-zh-cn](https://hellowac.github.io/ypy-websocket-zh-cn/) - 一个用于 Ypy 的异步 WebSocket 连接器。原作者已更最新为 [pycrdt-websocket](https://github.com/jupyter-server/pycrdt-websocket) 。
-- [pycrdt-websocket-zh-cn](https://hellowac.github.io/pycrdt-websocket-zh-cn) - 一个用于 pycrdt 的异步 WebSocket 连接器
+- [aio-pika-zh-cn](https://github.com/hellowac/aio-pika-zh-cn) - [文档](https://hellowac.github.io/aio-pika-zh-cn) - 一个基于 aiormq 和 asyncio 的更人性化的包.
+- [redis-py-zh-cn](https://github.com/hellowac/redis-py-zh-cn) - [文档](https://hellowac.github.io/redis-py-zh-cn) - 连接redis并执行命令的包，支持集群和异步。
+- [redis-om-python-zh-cn](https://github.com/hellowac/redis-om-python-zh-cn) - [文档](https://hellowac.github.io/redis-om-python-zh-cn) - 一个用于redis的对象映射的包。
+- [nameko-zh-cn](https://github.com/hellowac/nameko-zh-cn) - [文档](https://hellowac.github.io/nameko-zh-cn/) - 一个用于 Python 的微服务框架，帮助服务开发者专注于应用逻辑并促进可测试性。
+- [ypy-websocket-zh-cn](https://github.com/hellowac/ypy-websocket-zh-cn) - [文档](https://hellowac.github.io/ypy-websocket-zh-cn/) - 一个用于 Ypy 的异步 WebSocket 连接器。原作者已更最新为 [pycrdt-websocket](https://github.com/jupyter-server/pycrdt-websocket) 。
+- [pycrdt-websocket-zh-cn](https://github.com/hellowac/pycrdt-websocket-zh-cn) - [文档](https://hellowac.github.io/pycrdt-websocket-zh-cn) - 一个用于 pycrdt 的异步 WebSocket 连接器
 
 ## Database
 
-- [practical-db-zh-cn](https://hellowac.github.io/practical_db_textbook-zh-cn/index.html) - 涵盖了三个核心主题：SQL、数据建模和关系数据库理论
+- [practical-db-zh-cn](https://github.com/hellowac/practical-db-zh-cn) - [文档](https://hellowac.github.io/practical_db_textbook-zh-cn/index.html) - 涵盖了三个核心主题：SQL、数据建模和关系数据库理论
 
 ## CV
 
-- [graphicsbook-zh-cn](https://hellowac.github.io/graphicsbook-zh-cn) - 计算机图形学和计算机图形编程的基础知识教科书
+- [graphicsbook-zh-cn](https://github.com/hellowac/graphicsbook-zh-cn) - [文档](https://hellowac.github.io/graphicsbook-zh-cn) - 计算机图形学和计算机图形编程的基础知识教科书
 
 ## Js
 
-- [yjs-zh-cn](https://hellowac.github.io/yjs-zh-cn/) - 一个基于 JS 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。（协作编辑）
+- [yjs-zh-cn](https://github.com/hellowac/yjs-zh-cn) - [文档](https://hellowac.github.io/yjs-zh-cn/) - 一个基于 JS 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。（协作编辑）
 
 ## Other
 
-- [ecma-376-zh-cn](https://hellowac.github.io/ecma-376-zh-cn)  - ECMA-376标准中文汉化版
+- [ecma-376-zh-cn](https://github.com/hellowac/ecma-376-zh-cn) - [文档](https://hellowac.github.io/ecma-376-zh-cn)  - ECMA-376标准中文汉化版
 - [linux-insides-zh](https://docs.hust.openatom.club/linux-insides-zh)  - linux 知识
-- [net-intro-zh-cn](https://hellowac.github.io/net-intro-zh-cn/) - 网络简介
+- [net-intro-zh-cn](https://github.com/hellowac/net-intro-zh-cn) - [文档](https://hellowac.github.io/net-intro-zh-cn/) - 网络简介
 - [developer-roadmap](https://roadmap.sh/) - 开发者路线图
 
 ## package manage
