@@ -36,7 +36,11 @@ Below is a list of completed translations, though they may not be updated in rea
 - [eventlet-zh-cn](https://github.com/hellowac/eventlet-zh-cn) - [文档](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 - [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
 - [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
-- [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟 
+- [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
+
+### doc
+
+- [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - 从 Markdown 转移到 reStructureText 有多难?
 
 ## async
 
