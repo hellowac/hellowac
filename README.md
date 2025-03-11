@@ -37,6 +37,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
 - [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
+- [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。:accessibility:
 
 ### doc
 
