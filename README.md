@@ -42,6 +42,7 @@ Below is a list of completed translations, though they may not be updated in rea
 ### doc
 
 - [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - 从 Markdown 转移到 reStructureText 有多难?
+- [pdf-std-zh-cn](https://github.com/hellowac/pdf-std-zh-cn) - [文档](https://hellowac.github.io/pdf-std-zh-cn/) - pdf标准文档-中文版 🛩️
 
 ## async
 
