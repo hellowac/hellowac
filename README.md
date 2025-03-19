@@ -36,13 +36,14 @@ Below is a list of completed translations, though they may not be updated in rea
 - [eventlet-zh-cn](https://github.com/hellowac/eventlet-zh-cn) - [文档](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 - [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
 - [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
-- [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
-- [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。 🉑
 
 ### doc
 
 - [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - 从 Markdown 转移到 reStructureText 有多难?
 - [pdf-std-zh-cn](https://github.com/hellowac/pdf-std-zh-cn) - [文档](https://hellowac.github.io/pdf-std-zh-cn/) - pdf标准文档-中文版 🛩️
+- [PyMuPDF-zh-cn](https://github.com/hellowac/PyMuPDF-zh-cn) - [文档](https://hellowac.github.io/PyMuPDF-zh-cn/) - PyMuPDF文档-中文版 , 基于C库MuPDF的python绑定。
+- [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
+- [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。 🉑
 
 ## async
 
