@@ -44,6 +44,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [PyMuPDF-zh-cn](https://github.com/hellowac/PyMuPDF-zh-cn) - [文档](https://hellowac.github.io/PyMuPDF-zh-cn/) - PyMuPDF文档-中文版 , 基于C库MuPDF的python绑定。
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
 - [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。 🉑
+- [svgwrite-zh-cn](https://github.com/hellowac/svgwrite-zh-cn) - [文档](https://hellowac.github.io/svgwrite-zh-cn/) - svgwrite 创建新的 SVG 图形，它不会读取/导入现有的图形，但你可以通过 &lt;image&gt; 实体始终包含其他 SVG 图形。 🉑
 
 ## async
 
