@@ -41,6 +41,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [sphinx](https://github.com/sphinx-doc/sphinx) - [文档](https://www.sphinx-doc.org/zh-cn/master/usage/restructuredtext/) - Sphinx 可以轻松创建智能且美观的文档。 🥇
 - [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - 从 Markdown 转移到 reStructureText 有多难?
+- [rst-mkd对比](https://longzeping.github.io/2018/08/03/reStructuredText%E5%92%8CMarkdown%E8%AF%A6%E7%BB%86%E5%AE%9E%E7%94%A8%E5%AF%B9%E6%AF%94/) - reStructuredText和Markdown详细实用对比
 - [pdf-std-zh-cn](https://github.com/hellowac/pdf-std-zh-cn) - [文档](https://hellowac.github.io/pdf-std-zh-cn/) - pdf标准文档-中文版 🛩️
 - [PyMuPDF-zh-cn](https://github.com/hellowac/PyMuPDF-zh-cn) - [文档](https://hellowac.github.io/PyMuPDF-zh-cn/) - PyMuPDF文档-中文版 , 基于C库MuPDF的python绑定。
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
