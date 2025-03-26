@@ -113,6 +113,21 @@ Below is a list of completed translations, though they may not be updated in rea
   - [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 用于 Web 开发的优秀 Python 库的排名列表。每周更新。【项目】
   - [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 出色的 Python 开发人员工具和库的排名列表。每周更新。【项目】
 
+## Awesome系列
+
+- [厉害的Pytorch项目](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) - 基于Pytorch的厉害的库。
+- [awesome-python](https://github.com/vinta/awesome-python) - 受欢迎的Python资源集合之一，涵盖了Web开发、数据科学、机器学习、自动化脚本、网络爬虫等多个领域的优秀Python库和框架。
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#python) - 专注于机器学习和数据科学的资源库，包含Python及其他语言的相关库、教程、课程和书籍。
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - 主要关注公开数据集，但它与数据科学密切相关，提供了大量有用的数据资源，常用于数据科学项目和机器学习研究。
+- [Awesome Django](https://github.com/wsvincent/awesome-django) - 专注于Django框架的资源库，汇集了Django开发中常用的第三方库、工具、模板和教程。
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) - 针对Flask框架的优秀资源集合，包含扩展、教程、工具和示例项目，帮助开发者更高效地使用Flask进行Web开发。
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) - 汇集了与FastAPI相关的各种资源，包括扩展、教程、示例项目和工具。
+- [Awesome Python Books](https://github.com/junnplus/awesome-python-books) - 专注于Python相关的书籍资源，涵盖了入门、进阶、数据科学、Web开发等多个领域，适合不同层次的学习者。
+- [Awesome Python Books-cn](https://github.com/jobbole/awesome-python-books) - python相关书籍-中文版
+- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - 收集了使用Python开发的优秀开源应用程序，涵盖桌面应用、命令行工具、Web应用等，适合学习和参考。
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - 虽然主要用于CTF（Capture The Flag）竞赛，但这个资源库包含了大量与安全相关的Python工具和库，适合对网络安全感兴趣的开发者。
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) - 专注于人工智能领域的资源库，包含Python相关的库、框架、教程和项目，适合从事AI研究和开发的开发者。
+
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
