@@ -28,14 +28,18 @@ Below is a list of completed translations, though they may not be updated in rea
 ## Python
 
 - [python](https://github.com/python/) - python 官方组织 【组织】 🥇
-- [python3-cook-book-zh-cn](https://github.com/hellowac/python3-cookbook-zh-cn) - [文档](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
-- [pythonds-zh-cn](https://github.com/hellowac/pythonds-zh-cn) - [文档](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
 - [python-program-style-zh-cn](https://github.com/hellowac/python-program-style-zh-cn) - [文档](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
 - [attrs-zh-cn](https://github.com/hellowac/attrs-zh-cn) - [文档](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
 - [ypy-zh-cn](https://github.com/hellowac/ypy-zh-cn) - [文档](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
 - [eventlet-zh-cn](https://github.com/hellowac/eventlet-zh-cn) - [文档](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 - [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
 - [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
+
+### book
+
+- [python3-cook-book-zh-cn](https://github.com/hellowac/python3-cookbook-zh-cn) - [文档](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
+- [pythonds-zh-cn](https://github.com/hellowac/pythonds-zh-cn) - [文档](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
+- [Python-Geo-Dev](https://github.com/hellowac/pgd-zh-cn) - [文档](https://hellowac.github.io/pgd-zh-cn/) - Python 地理空间开发 - 中文版 👨‍💻
 
 ### doc
 
