@@ -55,6 +55,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [pdfminer.six-zh-cn](https://github.com/hellowac/pdfminer.six-zh-cn) - [文档](https://hellowac.github.io/pdfminer.six-zh-cn/) - 一个用于从 PDF 文档中提取信息的 Python 包🌟
 - [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。 🉑
 - [svgwrite-zh-cn](https://github.com/hellowac/svgwrite-zh-cn) - [文档](https://hellowac.github.io/svgwrite-zh-cn/) - svgwrite 创建新的 SVG 图形，它不会读取/导入现有的图形，但你可以通过 &lt;image&gt; 实体始终包含其他 SVG 图形。 🉑
+- [sqlachemy-zh-cn](https://github.com/hellowac/sqlalchemy-zh-cn) - [文档](https://hellowac.github.io/sqlalchemy-zh-cn/) - sql 炼金术 中文版。 🉑
 
 ## async
 
