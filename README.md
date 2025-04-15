@@ -28,6 +28,7 @@ Below is a list of completed translations, though they may not be updated in rea
 ## Python
 
 - [python](https://github.com/python/) - python 官方组织 【组织】 🥇
+- [styleguide-zh-cn](https://github.com/hellowac/styleguide-zh-cn) - [文档](https://hellowac.github.io/styleguide-zh-cn/) google的编程语言样式指南(仅翻译Python的指南为中文..)
 - [python-program-style-zh-cn](https://github.com/hellowac/python-program-style-zh-cn) - [文档](https://hellowac.github.io/python-program-style-zh-cn/)  - python编程样式指南
 - [attrs-zh-cn](https://github.com/hellowac/attrs-zh-cn) - [文档](https://hellowac.github.io/attrs-zh-cn) - 便捷定义类的 python 包
 - [ypy-zh-cn](https://github.com/hellowac/ypy-zh-cn) - [文档](https://hellowac.github.io/ypy-zh-cn/) - 一个基于 Python 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。
