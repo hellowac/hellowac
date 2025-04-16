@@ -52,6 +52,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [furo](https://github.com/pradyunsg/furo) - [文档-en](https://pradyunsg.me/furo/) - 一个干净的可定制的 Sphinx 文档主题。👍
 
 - [conda-docs-zh-cn](https://github.com/hellowac/conda-docs-zh-cn) - [文档](https://hellowac.github.io/conda-docs-zh-cn/) - conda文档的概览版 🐤
+- [conda-zh-cn](https://github.com/hellowac/conda-zh-cn) - [文档](https://hellowac.github.io/conda-zh-cn/) - conda文档的使用文档。
 
 - [pdf-std-zh-cn](https://github.com/hellowac/pdf-std-zh-cn) - [文档](https://hellowac.github.io/pdf-std-zh-cn/) - pdf标准文档-中文版 🛩️
 - [PyMuPDF-zh-cn](https://github.com/hellowac/PyMuPDF-zh-cn) - [文档](https://hellowac.github.io/PyMuPDF-zh-cn/) - PyMuPDF文档-中文版 , 基于C库MuPDF的python绑定。
