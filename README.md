@@ -118,6 +118,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [uv](https://github.com/astral-sh/uv) - [uv-doc](https://docs.astral.sh/uv) - [中文文档](https://hellowac.github.io/uv-zh-cn/) - 一个用 Rust 编写的极快 Python 包和项目管理工具。
 - [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - [中文文档](https://hellowac.github.io/pixi-zh-cn/) - 一款面向开发人员的包管理工具。
+- [hatch](https://github.com/hellowac/hatch-zh-cn) - [英文文档](https://hatch.pypa.io/latest/) - [中文文档] -  现代、可扩展的 Python 项目管理 🆕
 
 ## 机器翻译
 
