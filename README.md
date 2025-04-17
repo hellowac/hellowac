@@ -119,6 +119,12 @@ Below is a list of completed translations, though they may not be updated in rea
 - [uv](https://github.com/astral-sh/uv) - [uv-doc](https://docs.astral.sh/uv) - [中文文档](https://hellowac.github.io/uv-zh-cn/) - 一个用 Rust 编写的极快 Python 包和项目管理工具。
 - [pixi](https://github.com/prefix-dev/pixi) - [英文文档](https://pixi.sh/latest/#nushell) - [中文文档](https://hellowac.github.io/pixi-zh-cn/) - 一款面向开发人员的包管理工具。
 
+## 机器翻译
+
+- [Libretranslate](https://github.com/hellowac/LibreTranslate-zh-cn) - [中文文档](https://hellowac.github.io/LibreTranslate-zh-cn/) - 自由与开源的机器翻译 API. 自主服务,线下翻译能力强,设置方便. 🤪
+- [argos-translate](https://github.com/hellowac/argos-translate-zh-cn) - 用 Python 编写的开源的离线的翻译库
+
+
 ## 机器学习
 
 - [ml-tooling](https://github.com/ml-tooling) - 机器学习工具合集 【组织】
