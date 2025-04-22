@@ -149,6 +149,8 @@ Below is a list of completed translations, though they may not be updated in rea
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - 虽然主要用于CTF（Capture The Flag）竞赛，但这个资源库包含了大量与安全相关的Python工具和库，适合对网络安全感兴趣的开发者。
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) - 专注于人工智能领域的资源库，包含Python相关的库、框架、教程和项目，适合从事AI研究和开发的开发者。
 - [Awesome Mcp Servers](https://github.com/punkpeye/awesome-mcp-servers) - 精选的优秀模型上下文协议 (MCP) 服务器列表。
+- [Awesom Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 可以自托管的免费软件/服务列表.
+- [Free For Dev](https://github.com/ripienaar/free-for-dev) - 一个供开发者使用的免费服务资源(SaaS, PaaS, IaaS, etc.)的列表.
 
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
