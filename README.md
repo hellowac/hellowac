@@ -59,6 +59,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
 - [pdfminer.six-zh-cn](https://github.com/hellowac/pdfminer.six-zh-cn) - [文档](https://hellowac.github.io/pdfminer.six-zh-cn/) - 一个用于从 PDF 文档中提取信息的 Python 包🌟
 - [python-docx-zh-cn](https://github.com/hellowac/python-docx-zh-cn) - [文档](https://hellowac.github.io/python-docx-zh-cn/) - 一个用于读取、创建和更新 Microsoft Word 2007+ (.docx) 文件的 Python 库。 🉑
+- [pdf翻译1 - PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [pdf翻译2 - PolyglotPDF](https://github.com/CBIhalsen/PolyglotPDF) - [pdf翻译3 - zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - 收藏...
 - [svgwrite-zh-cn](https://github.com/hellowac/svgwrite-zh-cn) - [文档](https://hellowac.github.io/svgwrite-zh-cn/) - svgwrite 创建新的 SVG 图形，它不会读取/导入现有的图形，但你可以通过 &lt;image&gt; 实体始终包含其他 SVG 图形。 🉑
 
 - [sqlachemy-zh-cn](https://github.com/hellowac/sqlalchemy-zh-cn) - [文档](https://hellowac.github.io/sqlalchemy-zh-cn/) - sql 炼金术 中文版。 🉑
