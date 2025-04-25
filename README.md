@@ -35,6 +35,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [eventlet-zh-cn](https://github.com/hellowac/eventlet-zh-cn) - [文档](https://hellowac.github.io/eventlet-zh-cn) - 早期的比较老的异步(绿色线程)包。现已推荐使用asyncio
 - [pypug](https://github.com/hellowac/pypug-zh-cn) - [文档](https://hellowac.github.io/pypug-zh-cn/) - python packaging user guide - Python 打包用户指南 【pypa】
 - [starlette-zh-cn](https://github.com/hellowac/starlette-zh-cn) - [文档](https://hellowac.github.io/starlette-zh-cn) - 流行的比较小型的 ASGI 框架 🌟
+- [Celery-zh-cn](http://github.com/hellowac/celery-zh-cn) - [文档-zh](https://hellowac.github.io/celery-zh-cn/index.html) - [文档-en](https://docs.celeryq.dev/en/stable/) - 分布式任务队列 🥈
 
 ### book
 
