@@ -164,6 +164,7 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [shynet](https://github.com/milesmcc/shynet) - 一个适合中小网站的数据采集，分析的字托管的web网站。
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 一个声音合成的仓库
+- [HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai/tree/main) - 数字人合成
 
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
