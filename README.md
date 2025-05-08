@@ -162,10 +162,12 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ## 其他有意思的库
 
+- [deepseek-v3](https://github.com/deepseek-ai/DeepSeek-V3) - Deepseek-V3
 - [shynet](https://github.com/milesmcc/shynet) - 一个适合中小网站的数据采集，分析的字托管的web网站。
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 一个声音合成的仓库
 - [HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai/tree/main) - 数字人合成
 - [kanboard](https://github.com/kanboard/kanboard) - 项目管理看板开源软件
+- [gpt-api-free](https://github.com/chatanywhere/GPT_API_free) - 免费使用 gpt | deepseek / 支持 gpt | deepseek | claude | gemini | grok
 
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
