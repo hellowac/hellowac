@@ -105,8 +105,13 @@ Below is a list of completed translations, though they may not be updated in rea
 
 - [graphicsbook-zh-cn](https://github.com/hellowac/graphicsbook-zh-cn) - [文档](https://hellowac.github.io/graphicsbook-zh-cn) - 计算机图形学和计算机图形编程的基础知识教科书
 
-## Js
+## 前端
 
+- [React文档](https://zh-hans.react.dev)
+
+### Js
+
+- [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - [文档](https://zh.javascript.info/js) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [yjs-zh-cn](https://github.com/hellowac/yjs-zh-cn) - [文档](https://hellowac.github.io/yjs-zh-cn/) - 一个基于 JS 的 [CRDT](https://hellowac.github.io/yjs-zh-cn/crdt-algorithm/) 实现，支持多人在线编辑的基础支持包。（协作编辑）
 
 ## Other
