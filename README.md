@@ -39,9 +39,10 @@ Below is a list of completed translations, though they may not be updated in rea
 
 ### book
 
-- [python3-cook-book-zh-cn](https://github.com/hellowac/python3-cookbook-zh-cn) - [文档](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南
-- [pythonds-zh-cn](https://github.com/hellowac/pythonds-zh-cn) - [文档](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版
-- [Python-Geo-Dev](https://github.com/hellowac/pgd-zh-cn) - [文档](https://hellowac.github.io/pgd-zh-cn/) - Python 地理空间开发 - 中文版 👨‍💻
+- [python3-cook-book-zh-cn](https://github.com/hellowac/python3-cookbook-zh-cn) - [文档](https://hellowac.github.io/python3-cookbook-zh-cn/) - python3 烹饪指南 📚
+- [pythonds-zh-cn](https://github.com/hellowac/pythonds-zh-cn) - [文档](https://hellowac.github.io/pythonds-zh-cn/)  - python数据结构和算法-中文版 📚
+- [Python-Geo-Dev](https://github.com/hellowac/pgd-zh-cn) - [文档](https://hellowac.github.io/pgd-zh-cn/) - Python 地理空间开发 - 中文版 📚
+- [graphicsbook-zh-cn](https://github.com/hellowac/graphicsbook-zh-cn) - [文档](https://hellowac.github.io/graphicsbook-zh-cn/) - 一本免费的在线教科书，涵盖计算机图形学和计算机图形编程的基础知识。 📚
 
 ### doc
 
