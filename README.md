@@ -25,6 +25,10 @@ Below is a list of completed translations, though they may not be updated in rea
 
 [Teach Your self](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md) - 自学计算机专业指南-中文版 - [英文版](https://teachyourselfcs.com/)
 
+## Teacher
+
+- [大卫·埃克(David J. Eck)](https://math.hws.edu/eck/) - [github](https://github.com/davidjeck) - [GitHub Pages](https://davidjeck.github.io/) - 名誉教授 数学与计算机科学系 霍巴特学院和威廉·史密斯学院 纽约州日内瓦 14456
+
 ## Python
 
 - [python](https://github.com/python/) - python 官方组织 【组织】 🥇
