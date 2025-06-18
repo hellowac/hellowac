@@ -181,6 +181,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [kanboard](https://github.com/kanboard/kanboard) - 项目管理看板开源软件
 - [gpt-api-free](https://github.com/chatanywhere/GPT_API_free) - 免费使用 gpt | deepseek / 支持 gpt | deepseek | claude | gemini | grok
 - [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 帮助开发人员构建 AI 系统的示例和教程 🫰
+- [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 阿里通义千问2.5大模型逆向API 🫰
 
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
