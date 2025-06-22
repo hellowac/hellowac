@@ -58,10 +58,8 @@ Below is a list of completed translations, though they may not be updated in rea
 - [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - [文档2](https://3vshej.cn/rstSyntax/quote2footnote.html) - 从 Markdown 转移到 reStructureText 有多难?
 - [rst-mkd对比](https://longzeping.github.io/2018/08/03/reStructuredText%E5%92%8CMarkdown%E8%AF%A6%E7%BB%86%E5%AE%9E%E7%94%A8%E5%AF%B9%E6%AF%94/) - reStructuredText和Markdown详细实用对比
 - [furo](https://github.com/pradyunsg/furo) - [文档-en](https://pradyunsg.me/furo/) - 一个干净的可定制的 Sphinx 文档主题。👍
-
 - [conda-docs-zh-cn](https://github.com/hellowac/conda-docs-zh-cn) - [文档](https://hellowac.github.io/conda-docs-zh-cn/) - conda文档的概览版 🐤
 - [conda-zh-cn](https://github.com/hellowac/conda-zh-cn) - [文档](https://hellowac.github.io/conda-zh-cn/) - conda文档的使用文档。
-
 - [pdf-std-zh-cn](https://github.com/hellowac/pdf-std-zh-cn) - [文档](https://hellowac.github.io/pdf-std-zh-cn/) - pdf标准文档-中文版 🛩️
 - [PyMuPDF-zh-cn](https://github.com/hellowac/PyMuPDF-zh-cn) - [文档](https://hellowac.github.io/PyMuPDF-zh-cn/) - PyMuPDF文档-中文版 , 基于C库MuPDF的python绑定。
 - [pypdf-zh-cn](https://github.com/hellowac/pypdf-zh-cn/tree/sync-docs) - [文档](https://hellowac.github.io/pypdf-zh-cn/) - pypdf 是一个 免费 且开源的纯 Python PDF 库，能够对 PDF 文件的页面进行拆分、合并、裁剪和转换操作。🌟
@@ -182,6 +180,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [gpt-api-free](https://github.com/chatanywhere/GPT_API_free) - 免费使用 gpt | deepseek / 支持 gpt | deepseek | claude | gemini | grok
 - [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 帮助开发人员构建 AI 系统的示例和教程 🫰
 - [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 阿里通义千问2.5大模型逆向API 🫰
+- [ai-examples](https://github.com/MarkTechStation/VideoCode) - ai调用并应用function calling和MCP的例子。
 
 <!--
 **hellowac/hellowac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
