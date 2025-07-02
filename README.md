@@ -55,6 +55,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [write-the-docs](https://github.com/dongxg-top/write_the_document) - [文档](https://write-the-document.readthedocs.io/index.html#) - 技术文档写作指南 🥇
 - [write-the-docs-en](https://github.com/hellowac/wtd-www-zh-cn) - [文档-en](https://www.writethedocs.org/) - 文档写作指南 👍
 - [sphinx](https://github.com/sphinx-doc/sphinx) - [文档](https://www.sphinx-doc.org/zh-cn/master/usage/restructuredtext/) - Sphinx 可以轻松创建智能且美观的文档。 🥇
+- [sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) - [文档-en](https://sphinx-book-theme.readthedocs.io/) - sphinx 构建交互式书籍的主题。 :feelsgood:
 - [learn-rst](https://github.com/zombie110year/learn-rst) - [文档](https://learn-rst.readthedocs.io/zh-cn/latest/index.html) - [文档2](https://3vshej.cn/rstSyntax/quote2footnote.html) - 从 Markdown 转移到 reStructureText 有多难?
 - [rst-mkd对比](https://longzeping.github.io/2018/08/03/reStructuredText%E5%92%8CMarkdown%E8%AF%A6%E7%BB%86%E5%AE%9E%E7%94%A8%E5%AF%B9%E6%AF%94/) - reStructuredText和Markdown详细实用对比
 - [furo](https://github.com/pradyunsg/furo) - [文档-en](https://pradyunsg.me/furo/) - 一个干净的可定制的 Sphinx 文档主题。👍
