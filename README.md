@@ -49,6 +49,7 @@ Below is a list of completed translations, though they may not be updated in rea
 - [Python-Geo-Dev](https://github.com/hellowac/pgd-zh-cn) - [文档](https://hellowac.github.io/pgd-zh-cn/) - Python 地理空间开发 - 中文版 📚
 - [graphicsbook-zh-cn](https://github.com/hellowac/graphicsbook-zh-cn) - [文档](https://hellowac.github.io/graphicsbook-zh-cn/) - 一本免费的在线教科书，涵盖计算机图形学和计算机图形编程的基础知识。 📚
 - [computer-net-zh-cn](https://github.com/hellowac/computer-net-zh-cn) - [文档](https://hellowac.github.io/computer-net-zh-cn/) - 计算机网络 - 自顶向下。📚
+- [ee101-zh-cn](https://github.com/hellowac/ee101) - [文档](https://hellowac.github.io/ee101/) - 电气工程101📚
 
 ### doc
 
